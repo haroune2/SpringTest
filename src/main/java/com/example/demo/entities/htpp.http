@@ -1,0 +1,11 @@
+GET https://didactic-space-carnival-9vvjwgrpv6jcrw4-8080.app.github.dev
+
+POST https://didactic-space-carnival-9vvjwgrpv6jcrw4-8080.app.github.dev/create
+Content-Type: application/json
+
+{
+    "name" :"test"
+}
+
+
+ 
